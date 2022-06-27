@@ -1,4 +1,4 @@
-# [Peng Gao Research Group Theme]
+# Peng Gao Research Group
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
 
